@@ -1,6 +1,6 @@
 import type { Metadata } from "next"
 import { PostsTable } from "@/components/posts-table"
-import { PostsTableToolbar } from "@/components/posts-table-toolbar"
+import { PostsTableToolbar } from "@/components/post-table-toolbar"
 
 export const metadata: Metadata = {
   title: "Posts",
